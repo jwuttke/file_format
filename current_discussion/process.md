@@ -1,7 +1,4 @@
-#### Process
-
-## First of all
-
+# Process
 
 ## Efficient meetings
 
@@ -25,5 +22,4 @@ with other chapters.
 
 ## Incremental standardization
 
-Put single chapter for vote as soon as they are mature
-(to tame complexity, divide and conquer).
+Put single chapter for vote as soon as they are mature.

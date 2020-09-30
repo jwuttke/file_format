@@ -1,4 +1,4 @@
-#### Terminology
+# Terminology
 
 ## Ascii vs HDF5
 
@@ -10,7 +10,7 @@ HDF5 is a container format, as are YAML and XML.
 Whatever we do should be as strict as necessary and as
 pragmatic as possible. These are no suitable terms for
 distiguishing two formats. Anyway, there should not be
-two formats, see below.
+two formats, see [dataRepresentation](dataRepresentation.md).
 
 ## one format, two representations
 
@@ -18,7 +18,7 @@ To fully specify how to store reduced reflectometry data,
 we need to define a metadata dictionary (=ontology?), a
 hierarchical structure (data model), and a container format.
 There is consensus that we shall support two different
-container formats, wrapped YAML (see below) and HDF5.
+container formats, wrapped YAML (see [dataRepresentation](dataRepresentation.md)) and HDF5.
 
 However, it would be misleading and damaging to state
 that we are defining two different data formats. We
