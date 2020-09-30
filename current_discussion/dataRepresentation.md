@@ -1,5 +1,7 @@
 # Data representation
 
+Follow-up on meeting of 30sep20 - Joachim Wuttke.
+
 ## Common subset of YAML and HDF5, no attributes
 
 To keep things simple, our data model should only use

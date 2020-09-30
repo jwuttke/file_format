@@ -1,5 +1,7 @@
 # Process
 
+Follow-up on meeting of 30sep20 - Joachim Wuttke.
+
 ## Efficient meetings
 
 Technical discussion in a large committee tend to be lengthy,

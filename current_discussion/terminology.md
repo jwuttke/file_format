@@ -1,5 +1,7 @@
 # Terminology
 
+Follow-up on meeting of 30sep20 - Joachim Wuttke.
+
 ## Ascii vs HDF5
 
 Avoid this false dichotomy. The opposite of Ascii is Binary.
